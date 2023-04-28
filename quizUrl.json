@@ -1,0 +1,32 @@
+{
+  "title": "Quiz 1",
+  "questions": [
+    {
+      "questionText": "What is the capital of France?",
+      "isMultipleChoice": true,
+      "answerOptions": [
+        "New York",
+        "Paris",
+        "London",
+        "Tokyo"
+      ],
+      "correctAnswer": "Paris"
+    },
+    {
+      "questionText": "What is 2 + 2?",
+      "isMultipleChoice": false,
+      "correctAnswer": "4"
+    },
+    {
+      "questionText": "What is the largest planet in the solar system?",
+      "isMultipleChoice": true,
+      "answerOptions": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "correctAnswer": "Jupiter"
+    }
+  ]
+}
